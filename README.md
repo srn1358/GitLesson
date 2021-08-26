@@ -9,3 +9,4 @@ A `print` function in Python displays the text or variable passed in the functio
 text = ‘This is a sentence that you would like to display.’
 print(text)
 ```
+![something](\Random\Nature Station\August 21.JPG)
